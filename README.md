@@ -6,3 +6,4 @@ pos 프로그램
 OS: MAC OS
 개발 언어 : JAVA
 Tool : Intelli J IDEA
+03월27일 : 로그인화면 제작 & IDEA와 mysql연동(실패)
