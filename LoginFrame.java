@@ -45,9 +45,7 @@ public class LoginFrame extends JFrame {
         add(panel, BorderLayout.CENTER);
 
     }
-    /*private void showSouth() {
-        JPanel panel = new JPanel();
-
-        JTextArea result = new JTextArea(30,20);
-    }*/
+    public static void main(String[] args) {
+        new LoginFrame();
+    }
 }
