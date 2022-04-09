@@ -54,5 +54,47 @@ public class OrderFrame extends JFrame {
                 new OrderFrame2();
             }
         });
+        button3.addMouseListener(new MouseAdapter() {
+            @Override
+            public void mousePressed(MouseEvent e) {
+                setVisible(false);
+                new OrderFrame2();
+            }
+        });
+        button4.addMouseListener(new MouseAdapter() {
+            @Override
+            public void mousePressed(MouseEvent e) {
+                setVisible(false);
+                new OrderFrame2();
+            }
+        });
+        button5.addMouseListener(new MouseAdapter() {
+            @Override
+            public void mousePressed(MouseEvent e) {
+                setVisible(false);
+                new OrderFrame2();
+            }
+        });
+        button6.addMouseListener(new MouseAdapter() {
+            @Override
+            public void mousePressed(MouseEvent e) {
+                setVisible(false);
+                new OrderFrame2();
+            }
+        });
+        button7.addMouseListener(new MouseAdapter() {
+            @Override
+            public void mousePressed(MouseEvent e) {
+                setVisible(false);
+                new OrderFrame2();
+            }
+        });
+        button8.addMouseListener(new MouseAdapter() {
+            @Override
+            public void mousePressed(MouseEvent e) {
+                setVisible(false);
+                new OrderFrame2();
+            }
+        });
     }
 }

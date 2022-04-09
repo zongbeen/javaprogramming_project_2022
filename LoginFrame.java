@@ -12,6 +12,7 @@ public class LoginFrame extends JFrame {
         showSouth();
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(1000,1000);
+        setLocationRelativeTo(null);
         setVisible(true);
     }
 
